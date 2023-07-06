@@ -16,11 +16,11 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/automateWhatsapp.git
+    git clone https://github.com/kamipakistan/AutomateWhatsapp.git
     ```   
 2. Navigate to the project directory:
     ```shell
-    cd automateWhatsapp
+    cd AutomateWhatsapp
     ```
 3. Install the required Python packages:
     ```shell
@@ -39,9 +39,9 @@ Open the main.py file and specify the phone number and message content in the ph
 
 Run the script:
 ```shell
-python main.py
+python send_whatsapp_msg.py
 ```
-This will open a Chrome browser window and automate sending the specified message to the provided phone number on WhatsApp Web.
+This will open a Chrome browser window and automate sending the specified **`Message`** to the provided **`Phone Number`** on WhatsApp Web.
 
 ### Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
