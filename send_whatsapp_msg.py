@@ -16,6 +16,9 @@ def send_whatsapp_message(message, phone_number):
     BASE_URL = "https://web.whatsapp.com/"  # Base URL for WhatsApp Web
     CHAT_URL = f"https://web.whatsapp.com/send?phone={phone_number}&text&type=phone_number&app_absent=1"  # URL for opening a chat with a specific phone number
 
+    # Instructions for finding the Chrome user profile folder:
+    # Visit: https://www.howtogeek.com/255653/how-to-find-your-chrome-profile-folder-on-windows-mac-and-linux/
+
     # Path to your Chrome user profile directory
     CHROME_USER_PROFILE_PATH = "/home/kamipakistan/.config/google-chrome/Default"
 
