@@ -16,11 +16,11 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/automateWhatsapp.git
+    git clone https://github.com/kamipakistan/AutomateWhatsapp.git
     ```   
 2. Navigate to the project directory:
     ```shell
-    cd automateWhatsapp
+    cd AutomateWhatsapp
     ```
 3. Install the required Python packages:
     ```shell
